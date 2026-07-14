@@ -20,10 +20,3 @@
 
 ### ✍️  Devloper Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Devloper Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
----
-
-###snake having contribution 
-![snake gif](https://github.com/virat122/virat122/blob/output/github-contribution-grid-snake.svg)
